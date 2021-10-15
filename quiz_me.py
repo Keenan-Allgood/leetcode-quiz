@@ -6,6 +6,8 @@ class Quiz:
         1: "https://leetcode.com/problems/two-sum/",
         11: "https://leetcode.com/problems/container-with-most-water/",
         15: "https://leetcode.com/problems/3sum/",
+        18: "https://leetcode.com/problems/4sum/",
+        31: "https://leetcode.com/problems/next-permutation/",
         53: "https://leetcode.com/problems/maximum-subarray/",
         56: "https://leetcode.com/problems/merge-intervals/",
         88: "https://leetcode.com/problems/merge-sorted-array/",
@@ -18,6 +20,7 @@ class Quiz:
         252: "https://leetcode.com/problems/meeting-rooms/",
         253: "https://leetcode.com/problems/meeting-rooms-ii/",
         283: "https://leetcode.com/problems/move-zeroes/",
+        811: "https://leetcode.com/problems/subdomain-visit-count/",
         953: "https://leetcode.com/problems/verifying-an-alien-dictionary/",
         1089: "https://leetcode.com/problems/duplicate-zeros/"
     }
@@ -40,10 +43,23 @@ class Quiz:
     }
 
     binary_tree = {
-
+        100: "https://leetcode.com/problems/same-tree/",
+        102: "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        104: "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        105: "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        116: "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        124: "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        208: "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        226: "https://leetcode.com/problems/invert-binary-tree/",
+        297: "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        572: "https://leetcode.com/problems/subtree-of-another-tree/",
+        1448: "https://leetcode.com/problems/count-good-nodes-in-binary-tree/",
     }
 
     binary_search_tree = {
+        98: "https://leetcode.com/problems/validate-binary-search-tree/",
+        230: "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        235: "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
 
     }
 
@@ -56,7 +72,8 @@ class Quiz:
     heap = {
         23: "https://leetcode.com/problems/merge-k-sorted-lists/",
         295: "https://leetcode.com/problems/find-median-from-data-stream/",
-        347: "https://leetcode.com/problems/top-k-frequent-elements/"
+        347: "https://leetcode.com/problems/top-k-frequent-elements/",
+        973: "https://leetcode.com/problems/k-closest-points-to-origin/"
     }
 
     intervals = {
@@ -68,11 +85,20 @@ class Quiz:
     }
 
     randoms = {
-
+        22: "https://leetcode.com/problems/generate-parentheses/",
+        1822: "https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/",
     }
 
     graph = {
-
+        128: "https://leetcode.com/problems/longest-consecutive-sequence/",
+        133: "https://leetcode.com/problems/clone-graph/",
+        200: "https://leetcode.com/problems/number-of-islands/",
+        207: "https://leetcode.com/problems/course-schedule/",
+        212: "https://leetcode.com/problems/word-search-ii/",
+        261: "https://leetcode.com/problems/graph-valid-tree/",
+        269: "https://leetcode.com/problems/alien-dictionary/",
+        323: "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+        417: "https://leetcode.com/problems/pacific-atlantic-water-flow/"
     }
 
     back_tracking = {
@@ -96,8 +122,11 @@ class Quiz:
         271: "https://leetcode.com/problems/encode-and-decode-strings/",
         344: "https://leetcode.com/problems/reverse-string/",
         387: "https://leetcode.com/problems/first-unique-character-in-a-string/",
+        394: "https://leetcode.com/problems/decode-string/",
         557: "https://leetcode.com/problems/reverse-words-in-a-string-iii/",
-        647: "https://leetcode.com/problems/palindromic-substrings/"
+        647: "https://leetcode.com/problems/palindromic-substrings/",
+        680: "https://leetcode.com/problems/valid-palindrome-ii/submissions/",
+        1249: "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
     }
 
     options = [
